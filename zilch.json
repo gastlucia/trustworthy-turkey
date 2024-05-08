@@ -1,0 +1,9 @@
+{
+  "v": 1,
+  "name": "Trustworthy Turkey",
+  "avatar": "GiukkqqagmcaIicaa",
+  "preferredColor": "cerulean",
+  "language": "javascript.node",
+  "game": "table-tennis",
+  "run": "node main.js"
+}
